@@ -20,3 +20,8 @@
 18. Thando — Selaelo Selota (Painted Faces)
 19. Cinderella — Selaelo Selota (Stories Lived & Told)
 20. Can't Help Falling In Love — Elvis Presley
+21. Search & Rescue — Drake
+22. Love And Affection — Joan Armatrading
+23. Sinner (feat. Lucky Daye) — Adekunle Gold
+24. You Send Me — Percy Sledge (The Percy Sledge Way)
+25. When A Man Loves A Woman — Percy Sledge
