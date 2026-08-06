@@ -15,3 +15,8 @@
 13. Wedding Song — Tracy Chapman (Telling Stories)
 14. Soul Provider — Michael Bolton
 15. Can You Stand The Rain — New Edition (Heart Break)
+16. I'll Be There — Jackson 5 (Third Album)
+17. Pelong — Selaelo Selota
+18. Thando — Selaelo Selota (Painted Faces)
+19. Cinderella — Selaelo Selota (Stories Lived & Told)
+20. Can't Help Falling In Love — Elvis Presley
