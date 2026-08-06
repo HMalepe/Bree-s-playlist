@@ -25,3 +25,8 @@
 23. Sinner (feat. Lucky Daye) — Adekunle Gold
 24. You Send Me — Percy Sledge (The Percy Sledge Way)
 25. When A Man Loves A Woman — Percy Sledge
+26. Me You I — The Cavemen. (Roots)
+27. Promise — Ben Howard (Every Kingdom)
+28. Any Love — Luther Vandross
+29. Never Too Much — Luther Vandross
+30. I Know (feat. Stevie Wonder) — Luther Vandross
