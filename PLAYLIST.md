@@ -40,7 +40,7 @@ Thirty songs. One letter each in [LETTERS.md](LETTERS.md).
 ## Play all
 
 One YouTube queue covering 20 of the 32, supplied by Holiday:
-[play the run](https://www.youtube.com/watch_videos?video_ids=JTVKr28GKzY,1ZCGBgfp_jg,gE1r5urny7U,Tb4X1BWNO5k,573p9atwhyg,loxACEBahMM,pFiiAIECcAo,0zDICE85Uc4,ImMbR8JK78U,PmeLxaBNrAI,6KKHF9P35gQ,tVthyPOWc-E,sBohO1zr7jw,Hw_ajls-vVQ,6meW-K-1e7Q,4kbs9RHIb7s,IgMKtjiQzgQ,KttpCo1EXLs,Yot-0qJBfxc,XcfswBZpSBU)
+[play the run](https://www.youtube.com/watch_videos?video_ids=JTVKr28GKzY,1ZCGBgfp_jg,gE1r5urny7U,Tb4X1BWNO5k,CtEHrcA8dKc,fLf0WLEVpvA,pFiiAIECcAo,0zDICE85Uc4,ImMbR8JK78U,PmeLxaBNrAI,6KKHF9P35gQ,tVthyPOWc-E,sBohO1zr7jw,Hw_ajls-vVQ,6meW-K-1e7Q,4kbs9RHIb7s,IgMKtjiQzgQ,KttpCo1EXLs,Yot-0qJBfxc,XcfswBZpSBU)
 (`watch_videos` queues are fragile and this one is unverified — the per-track links below are the reliable route.)
 
 ## Listen & Lyrics
@@ -66,7 +66,7 @@ so there is nothing to localise on those two.
 Apple are marked `—` rather than pointed at releases that may not be reachable from South Africa.
 
 | # | Song | Artist | Spotify | Apple Music | YouTube Music | Direct link | Lyrics |
-|---|---|---|---|---|---|------|
+|---|---|---|---|---|---|---|---|
 | 1 | Daisies | Justin Bieber | [track](https://open.spotify.com/track/02MhLlbBNdj0E07hCUsCov) | [track](https://music.apple.com/za/song/daisies/1825994649) | [search](https://music.youtube.com/search?q=Daisies%20Justin%20Bieber) | [audio](https://music.youtube.com/watch?v=msGuqelopMA) | [lyrics](https://genius.com/search?q=Justin+Bieber+Daisies) |
 | 2 | Controlla | Drake | [track](https://open.spotify.com/track/6F609ICg9Spjrw1epsAnpa) | [track](https://music.apple.com/za/song/controlla/1440841382) | [search](https://music.youtube.com/search?q=Controlla%20Drake) | [yt](https://www.youtube.com/watch?v=JTVKr28GKzY) | [lyrics](https://genius.com/search?q=Drake+Controlla) |
 | 3 | Fire & Desire | Drake | [track](https://open.spotify.com/track/4BhGTc3Cgay2U1QcTS7vQe) | [track](https://music.apple.com/za/song/fire-desire/1440841725) | [search](https://music.youtube.com/search?q=Fire%20%26%20Desire%20Drake) | [yt](https://www.youtube.com/watch?v=1ZCGBgfp_jg) | [lyrics](https://genius.com/search?q=Drake+Fire+%26+Desire) |

@@ -52,7 +52,7 @@ Pure warm air. This song lived in every party across a continent for a solid two
 
 ---
 
-**7. Particula — Major Lazer (feat. Nasty C, Ice Prince, Patoranking)**
+**7. Particula — Major Lazer & DJ Maphorisa (feat. Nasty C, Ice Prince, Patoranking & Jidenna)**
 
 Bree,
 
