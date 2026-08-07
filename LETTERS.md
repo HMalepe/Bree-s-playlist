@@ -270,4 +270,21 @@ Holiday
 
 ---
 
-*Thirty-one songs. Somebody clearly thought about this.*
+**32. The Promise — Tracy Chapman**
+
+Bree,
+
+Her second appearance on this list, and the bigger of the two.
+
+Where "Wedding Song" is wary about ceremony, this one is about distance — being apart from someone and holding to an agreement anyway. It's a song about waiting. About saying you'll be there and then having to actually prove it across time and miles, which is the harder half. Five and a half minutes, and she never rushes a single line of it.
+
+That's why it's here twice. Tracy Chapman writes about love the way it really behaves — patient, tested, occasionally lonely, worth it. No fireworks. Just somebody keeping their word.
+
+I'll be there. That's the whole letter.
+
+Yours,
+Holiday
+
+---
+
+*Thirty-two songs. Somebody clearly thought about this.*

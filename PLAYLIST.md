@@ -35,6 +35,7 @@ Thirty songs. One letter each in [LETTERS.md](LETTERS.md).
 29. **Never Too Much** — Luther Vandross (Never Too Much)
 30. **I Know (feat. Stevie Wonder)** — Luther Vandross (I Know)
 31. **Why Not Smile** — R.E.M. (Up)
+32. **The Promise** — Tracy Chapman (New Beginning)
 
 ## Listen & Lyrics
 
@@ -77,3 +78,4 @@ YouTube Music links are searches: tap the top result.
 | 29 | Never Too Much | Luther Vandross | [track](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [track](https://music.apple.com/us/song/never-too-much/197992297) | [search](https://music.youtube.com/search?q=Never%20Too%20Much%20Luther%20Vandross) | [lyrics](https://genius.com/search?q=Luther+Vandross+Never+Too+Much) |
 | 30 | I Know (feat. Stevie Wonder) | Luther Vandross | [track](https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J) | [album](https://music.apple.com/us/album/i-know/723428198) | [search](https://music.youtube.com/search?q=I%20Know%20Luther%20Vandross) | [lyrics](https://genius.com/search?q=Luther+Vandross+I+Know+Stevie+Wonder) |
 | 31 | Why Not Smile | R.E.M. | [track](https://open.spotify.com/track/5XhVU3UYE3JJa21a5IUcXU) | [track](https://music.apple.com/us/song/why-not-smile/1440951881) | [search](https://music.youtube.com/search?q=Why%20Not%20Smile%20R.E.M.) | [lyrics](https://genius.com/search?q=R.E.M.+Why+Not+Smile) |
+| 32 | The Promise | Tracy Chapman | [track](https://open.spotify.com/track/2HO2bnoMrpnZUbUqiilLHi) | [track](https://music.apple.com/us/song/293102930) | [search](https://music.youtube.com/search?q=Tracy%20Chapman%20The%20Promise) | [lyrics](https://genius.com/Tracy-chapman-the-promise-lyrics) |
