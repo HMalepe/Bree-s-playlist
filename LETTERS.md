@@ -96,7 +96,16 @@ Kem writes for grown people. There's jazz in his phrasing and a lot of patience 
 
 Bree,
 
-A landmark of 90s R&B production — that hushed, midnight arrangement got copied for a decade. I'll be straight with you: what came out about the man since makes this a complicated thing to hold. The record is on the playlist because you put it there, and the craft in it is real. What you do with that tension is yours to decide.
+I put this one on here for a reason and I think you already know what it is.
+
+It's about the part of us that doesn't need words. The nights where I've said nothing and you've understood everything anyway. That's what this song gets right — it isn't about wanting a stranger, it's about two people who have learned each other well enough that the wanting has a language of its own. A look across a room. Your hand finding mine without either of us deciding to. The way I know when you've had a long day before you tell me.
+
+I'm not going to pretend I'm subtle about you. When you're gone, the house is quieter than it should be, and I notice. When you're close, I stop being able to think about anything useful. That's the whole thing this record is describing, and it's been describing it since before either of us was paying attention.
+
+So this one's less a song on a playlist and more a confession I'm hiding inside one. You'll hear it. You always do.
+
+Yours,
+Holiday
 
 ---
 
