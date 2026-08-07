@@ -134,7 +134,7 @@ Jimmy Jam has said this song was built to do something specific — introduce Jo
 
 Bree,
 
-Motown's president liked the title and hated the first version of the song, so it got rewritten overnight for a session the next morning. Michael was eleven when he sang the result — a promise of lifelong devotion, steadier than most adults manage. It became the label's biggest seller ever at the time. I've said more complicated things to you than "I'm not going anywhere." None of them were more important.
+Motown's president liked the title and hated the first version of the song, so it got rewritten overnight for a session the next morning. Michael was eleven when he sang the result — a promise of lifelong devotion, steadier than most adults manage. It became the label's biggest seller ever at the time. I've said more complicated things to you than that promise. None of them were more important.
 
 ---
 
