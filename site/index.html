@@ -2,7 +2,17 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <meta name="color-scheme" content="dark" />
+    <meta name="theme-color" content="#050505" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
     <title>Bree — thirty-two letters</title>
     <meta
       name="description"
@@ -17,6 +27,8 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
+    <a class="skip-link" href="#index">Skip to playlist</a>
+
     <div class="grain" aria-hidden="true"></div>
     <div class="bloom" aria-hidden="true"></div>
 
@@ -57,6 +69,7 @@
         <h2 id="index-title">The playlist</h2>
         <p>Choose a song. Each one opens a letter.</p>
       </div>
+      <p id="track-list-status" class="load-status" hidden></p>
       <ol class="track-list" id="track-list"></ol>
     </section>
 
@@ -70,6 +83,11 @@
       <p class="close-sign">— Holiday</p>
       <a class="text-link" href="#top">Back to the top</a>
     </footer>
+
+    <nav class="mobile-dock" aria-label="Quick navigation">
+      <a href="#index">Playlist</a>
+      <a href="#top">Top</a>
+    </nav>
 
     <script type="module" src="./app.js"></script>
   </body>
