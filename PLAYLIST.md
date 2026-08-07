@@ -34,6 +34,7 @@ Thirty songs. One letter each in [LETTERS.md](LETTERS.md).
 28. **Any Love** — Luther Vandross (Any Love)
 29. **Never Too Much** — Luther Vandross (Never Too Much)
 30. **I Know (feat. Stevie Wonder)** — Luther Vandross (I Know)
+31. **Why Not Smile** — R.E.M. (Up)
 
 ## Listen & Lyrics
 
@@ -75,4 +76,4 @@ so those two could not be confirmed the way the Spotify and Apple links were.
 | 28 | Any Love | Luther Vandross | [track](https://open.spotify.com/track/60SkdpPilIgvXSLtonYhtv) | [album](https://music.apple.com/us/album/any-love/278684678) | [search](https://music.youtube.com/search?q=Any%20Love%20Luther%20Vandross) | [search](https://genius.com/search?q=Any%20Love%20Luther%20Vandross) |
 | 29 | Never Too Much | Luther Vandross | [track](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [track](https://music.apple.com/us/song/never-too-much/197992297) | [search](https://music.youtube.com/search?q=Never%20Too%20Much%20Luther%20Vandross) | [search](https://genius.com/search?q=Never%20Too%20Much%20Luther%20Vandross) |
 | 30 | I Know (feat. Stevie Wonder) | Luther Vandross | [track](https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J) | [album](https://music.apple.com/us/album/i-know/723428198) | [search](https://music.youtube.com/search?q=I%20Know%20Luther%20Vandross) | [search](https://genius.com/search?q=I%20Know%20Luther%20Vandross) |
-
+| 31 | Why Not Smile | R.E.M. | [track](https://open.spotify.com/track/5XhVU3UYE3JJa21a5IUcXU) | [track](https://music.apple.com/us/song/why-not-smile/1440951881) | [search](https://music.youtube.com/search?q=Why%20Not%20Smile%20R.E.M.) | [search](https://genius.com/search?q=Why%20Not%20Smile%20R.E.M.) |

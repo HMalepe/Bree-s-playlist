@@ -253,4 +253,21 @@ Two of the greatest voices of the century in one room, and neither one showing o
 
 ---
 
-*Thirty songs. Somebody clearly thought about this.*
+**31. Why Not Smile — R.E.M.**
+
+Bree,
+
+This is the gentlest song on the whole list and probably the most useful one.
+
+It's addressed to somebody who has been carrying something heavy for longer than they've admitted. Not a crisis — just a sadness that has settled in and started to look like normal. The singer doesn't try to fix it or explain it away. He notices it, says he's worried, and offers the smallest possible thing: *why not smile.* Then he repeats that he'd do anything, which is the real message underneath the question.
+
+Peter Buck called it a song about pulling someone out of a dark place. Michael Stipe wasn't so sure it was that simple. They're both right, I think — wanting to help somebody and knowing how are two different skills, and the song is honest about only having the first one.
+
+I put it last because it's the one I'd want you to hear on a bad day. If you've been sad for a while, I've noticed. I'd do anything.
+
+Yours,
+Holiday
+
+---
+
+*Thirty-one songs. Somebody clearly thought about this.*
