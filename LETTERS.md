@@ -1,6 +1,6 @@
 # Letters for Bree
 
-Thirty-two songs. One soft note each — from me to you.
+Thirty-two songs. Thirty-two things I wanted to say and put on a playlist instead.
 
 ---
 
@@ -8,12 +8,7 @@ Thirty-two songs. One soft note each — from me to you.
 
 Bree,
 
-This is how I wanted us to begin — nothing forced, nothing trying to impress you. Just someone who is happy they found the person they want to keep, and a little scared of how much that matters. I hear that in this song. The easy part and the nervous part at the same time. That’s how loving you feels some days: light on the outside, holding on underneath.
-
-Three minutes. No armour. Just us, starting.
-
-Yours,
-Holiday
+He wrote this one about his own marriage — the exhaustion of being on different schedules, the small distances that build up when two people are both still choosing each other. I read that after I'd already picked the song, which told me I wasn't imagining the resemblance. It's not a song about a perfect relationship. It's a song about staying in an imperfect one on purpose. That's the part I wanted you to hear first.
 
 ---
 
@@ -21,10 +16,7 @@ Holiday
 
 Bree,
 
-This one is for the nights when the lights are low and I stop pretending I’m in charge of anything. It’s a sway more than a dance — the kind of song that makes a room feel smaller in a good way. I put it here because loving you has that same surrender in it. You hold more of the steering wheel than I like to admit out loud. And I’m fine with that. Happier than fine.
-
-Yours,
-Holiday
+I want to be honest about something this song says better than I do. You have more say over me than I let on. Not in a way that costs me anything — in the way where I'm glad. There's a version of a man who'd be embarrassed by that. I've decided not to be him.
 
 ---
 
@@ -32,21 +24,15 @@ Holiday
 
 Bree,
 
-Slow songs get to say the things I stumble over when we’re face to face. This one is warm after a cold stretch of music — apology and wanting mixed together. Wanting you and being a little burned by how deep it goes feel like the same weather sometimes. I don’t mind the burn. I just wanted you to know I feel both.
-
-Yours,
-Holiday
+This one's for the nights that don't go well. It's slow and unhurried on purpose, closer to apology than boast, and it understands something I've had to learn the hard way — that wanting somebody and hurting them can come from exactly the same place. When I get it wrong, this is the sound I'd want you to hear from me.
 
 ---
 
-**4. BB — Roy Woods**
+**4. BB — Roy Woods — Say Less**
 
 Bree,
 
-Some nights I don’t need words from you. I just need you near. Roy Woods sings like he’s half-asleep, soft and unfinished, and that’s exactly the hour I’m thinking of — late drives, quiet rooms, the part of the night where talking stops being necessary. This is the softest corner of the playlist for a reason. It’s for us when we don’t have to perform.
-
-Yours,
-Holiday
+Critics weren't kind to this one when the album came out — one review called it a half-baked throwaway. I don't care. It's the softest, laziest corner of a record Woods made almost entirely about not letting anyone close, and it's the one moment on it where he sounds like he might. I want that moment for us. The quiet where nothing needs proving.
 
 ---
 
@@ -54,10 +40,7 @@ Holiday
 
 Bree,
 
-I’m not sorry this one is sad. I put it here because the fear is real — that what we’ve already been given might be the whole allotment — and still, I choose gratitude over panic. If this were all the love I ever got, I’d still call it enough, because it’s you. The song starts small and quiet and then opens up. That’s how I feel about us when I’m being honest.
-
-Yours,
-Holiday
+I nearly left this one off because it scared me. It asks the question I try not to look at directly — what if this is the whole allotment, what if there isn't more coming. I put it on because I'd rather hand you the frightened song than only the easy ones. If this is all I ever get, it was already more than I expected.
 
 ---
 
@@ -65,10 +48,7 @@ Holiday
 
 Bree,
 
-This is pure sunshine. I wanted at least one song that makes it impossible to stay in a bad mood next to you. Unbothered, warm, a little lazy in the best way — the kind of love that doesn’t need a speech. Just movement. Just joy. When I say I’m mad over you, I mean it like this: smiling without trying.
-
-Yours,
-Holiday
+He wrote this on a plane, apparently, the whole idea arriving mid-flight before he'd even landed to record it. It went on to spend nearly ten weeks at number one on Lagos radio and got nominated for Song of the Year. None of that is why it's here. It's here because it's just happiness, no ache in it anywhere, and some days that's exactly what I feel about you.
 
 ---
 
@@ -76,10 +56,7 @@ Holiday
 
 Bree,
 
-This is where the playlist stands up and laughs. Loud, bright, a whole room of voices from different places somehow agreeing. I needed that energy in here — not everything about loving you is quiet. Some of it is celebration. Some of it is putting something on and letting the house fill up. This one’s for the nights we refuse to be small.
-
-Yours,
-Holiday
+Durban, Jos, Lagos, an American producer's crew, and a Philadelphia team behind the boards — all on one track, none of them asking permission. I put it here because a playlist about love shouldn't only be soft. Some of what I feel is pride, in where we're from, in the noise it makes. Turn it up too loud. Let the neighbours deal with it.
 
 ---
 
@@ -87,10 +64,7 @@ Holiday
 
 Bree,
 
-Smooth, sly, more suggestion than speech. Comparing someone to the most looked-at painting on earth should feel like too much — and somehow it doesn’t, because it’s underplayed. That’s how I feel about looking at you. I don’t need to announce it. I just do. Quietly. Constantly. This song knows how to admire without shouting.
-
-Yours,
-Holiday
+This one almost didn't make the EP. It became one of the biggest songs to come out of Nigeria that year anyway, big enough that Chris Brown wanted on the remix. Success didn't change what it actually is — a man comparing a woman to the most looked-at painting on earth and refusing to make a big deal of saying so. That's the register I'm trying to learn. Saying something enormous, quietly, like it's obvious. Because it is.
 
 ---
 
@@ -98,10 +72,7 @@ Holiday
 
 Bree,
 
-This is the conversation nobody knows how to start — when friendship asks to become something else. I hear tenderness and charm and a little courage in it. Whether we were already past that line or still circling it when I first heard this, the feeling stuck. Some songs remember a doorway. This is one of them.
-
-Yours,
-Holiday
+The hardest conversation in the world is the one where friendship is asked to become something else. This song sits right in the middle of that fear and doesn't flinch — three very different voices, all somehow saying the same nervous, hopeful thing. I know the shape of that risk from the inside. I'd take it again.
 
 ---
 
@@ -109,10 +80,7 @@ Holiday
 
 Bree,
 
-Not conquer. Not impress. Learn. That’s what this song asks for, and that’s still what I want with you — permission to know you properly, again and again, as you change and as I do. Joe doesn’t oversing it. He just asks. I’ve asked that of you in quieter ways. This is me putting the question in a song so you can hear how sincere it is.
-
-Yours,
-Holiday
+It got a Grammy nomination and twenty-two weeks on the charts, but that's not what's stayed with me about it. What's stayed is the ask underneath it — not conquer, not impress, learn. I'm not finished learning you and I don't expect to be. That question doesn't go out of date.
 
 ---
 
@@ -120,10 +88,7 @@ Holiday
 
 Bree,
 
-Kem writes for people who mean it. No drama. No pleading. Just an offer laid down gently by someone who has thought about it. That’s what this is for me — a soft proposal of a life shared. Kitchen mornings. Slow days. The ordinary made holy because you’re in it. Play this when the house is quiet and we’re not rushing anywhere.
-
-Yours,
-Holiday
+Before he wrote songs like this, Kem was homeless in Detroit, sober only because a room full of strangers finally taught him to say how he felt out loud. He built his voice out of that room. This song is what came after — quiet, unhurried, an offer laid down by someone who has genuinely thought it through, not someone performing certainty. That's where I am with you.
 
 ---
 
@@ -133,25 +98,19 @@ Bree,
 
 I put this one on here for a reason and I think you already know what it is.
 
-It’s about the part of us that doesn’t need words. The nights where I’ve said nothing and you’ve understood everything anyway. That’s what this song gets right — it isn’t about wanting a stranger, it’s about two people who have learned each other well enough that the wanting has a language of its own. A look across a room. Your hand finding mine without either of us deciding to. The way I know when you’ve had a long day before you tell me.
+It's about the part of us that doesn't need words. The nights where I've said nothing and you've understood everything anyway. That's what this song gets right — it isn't about wanting a stranger, it's about two people who have learned each other well enough that the wanting has a language of its own. A look across a room. Your hand finding mine without either of us deciding to. The way I know when you've had a long day before you tell me.
 
-I’m not going to pretend I’m subtle about you. When you’re gone, the house is quieter than it should be, and I notice. When you’re close, I stop being able to think about anything useful. That’s the whole thing this record is describing, and it’s been describing it since before either of us was paying attention.
+I'm not going to pretend I'm subtle about you. When you're gone, the house is quieter than it should be, and I notice. When you're close, I stop being able to think about anything useful.
 
-So this one’s less a song on a playlist and more a confession I’m hiding inside one. You’ll hear it. You always do.
-
-Yours,
-Holiday
+So this one's less a song on a playlist and more a confession I'm hiding inside one. You'll hear it. You always do.
 
 ---
 
-**13. Wedding Song — Tracy Chapman**
+**13. Wedding Song — Tracy Chapman — Telling Stories**
 
 Bree,
 
-Tracy never raises her voice, and she never needs to. This one looks at vows without lying about how hard love is — underneath the flowers and the paperwork, what you’re really promising. I love that honesty. It’s more romantic to me than any speech that pretends forever is easy. If I ever talk about forever with you, I want it to sound like this: quiet, careful, true.
-
-Yours,
-Holiday
+She's wary about ceremony and I love her for it. This isn't a song about flowers or paperwork — it's about what a vow actually costs once the hard months arrive, and she refuses to promise you it'll be easy. I don't want to make you a promise I've dressed up. I want to make you one I've counted the cost of. Less romantic to say. Much more true.
 
 ---
 
@@ -159,10 +118,7 @@ Holiday
 
 Bree,
 
-No irony. Full heart. I know people made fun of sincerity like this for years, but I don’t. The promise is simple — I’ll be the steady thing you can come back to — and he sings it like he means every word. Sometimes I want to say soft things to you. Sometimes I want to say them loud. This is the loud one. Embarrassed for nobody.
-
-Yours,
-Holiday
+This was the first single off an album that eventually sold twelve and a half million copies, and people spent years mocking the man for how unguarded he sounds on it. I think that's exactly why it works. Irony is a way of saying something while leaving yourself an exit. This song doesn't take one. I don't want one either.
 
 ---
 
@@ -170,10 +126,7 @@ Holiday
 
 Bree,
 
-Not *do you love me*. Anyone can answer that on a good day. *Can you stand the rain.* Can you do the hard months. That’s the question that matters to me. If I could only keep one song on this whole list, it might be this — because loving you isn’t only sunshine, and I don’t want a love that only works when it’s easy. I want us weatherproof. This is that prayer, sung by five voices stacking into something huge.
-
-Yours,
-Holiday
+Jimmy Jam has said this song was built to do something specific — introduce Johnny Gill as Bobby Brown's replacement without burying the other four voices doing it. That's a hard thing to write, let alone sing. But the question underneath it is the one that matters to me: not do you love me, which anyone can answer on a good day, but can you do the bad months. This is the one I'd keep if I could only keep one.
 
 ---
 
@@ -181,10 +134,7 @@ Holiday
 
 Bree,
 
-A child sang this promise, and somehow it still feels like the most adult thing in the room: I’m not going anywhere. That’s what I want you to hear when this comes on. Not a performance. A decision. Jermaine answers Michael like a conversation, and that’s how I mean it too — not a speech at you, a vow with you. I’ll be there. I keep choosing that sentence.
-
-Yours,
-Holiday
+Motown's president liked the title and hated the first version of the song, so it got rewritten overnight for a session the next morning. Michael was eleven when he sang the result — a promise of lifelong devotion, steadier than most adults manage. It became the label's biggest seller ever at the time. I've said more complicated things to you than "I'm not going anywhere." None of them were more important.
 
 ---
 
@@ -192,21 +142,15 @@ Holiday
 
 Bree,
 
-*Pelong* — in the heart. Home music. Selota’s guitar talks more than it shows off, and Sepedi softens the whole room. This one doesn’t rush toward a big ending; it circles, gentle, like a place you can rest. When I think of you and want the world to slow down, this is the sound I reach for. It feels like coming back to something true.
-
-Yours,
-Holiday
+He grew up in a village near Polokwane and started out as a gold miner before he ever picked up a guitar — mining something else with it since. *Pelong* means in the heart, and there's no English phrase that lands the same way. This one is home. Not a feeling. A place, and the particular quiet of it.
 
 ---
 
-**18. Thando — Selaelo Selota**
+**18. Thando — Selaelo Selota — Painted Faces**
 
 Bree,
 
-*Thando* is love, and he takes his time with it — nearly six minutes of returning, adding a little more each pass. I love that patience. Love with you isn’t a chorus that hits once; it’s a long drive with nowhere urgent to be. Open sky. Guitar that sounds like water and wood. Put this on when we have the whole afternoon and nowhere we have to be but together.
-
-Yours,
-Holiday
+This came off the album that made him a household name in South Africa — platinum-selling, two SAMAs, best newcomer. None of that changes what the song does: nearly six minutes, and he refuses to hurry a second of it. *Thando* is love, approached the way it actually works — circling, returning, adding a little more each pass. Nothing arrives all at once. Save it for a long drive with nowhere to be.
 
 ---
 
@@ -214,10 +158,7 @@ Holiday
 
 Bree,
 
-A fairytale name on something grounded and South African — stories lived, not just dreamed. There’s a lightness here I keep coming back to. You have that same lightness in you sometimes, even on heavy days, and it undoes me. This isn’t about glass slippers. It’s about someone telling a story with care. That’s how I try to hold you in these letters.
-
-Yours,
-Holiday
+A fairytale name on something far more grounded than a fairytale — that's true of the whole album it's from, *Stories Lived & Told*, which is the right order: you live the thing first and earn the telling after. There's a lightness in this one I keep coming back to. Some love isn't dramatic. It's just well-told, and true, and yours.
 
 ---
 
@@ -225,10 +166,7 @@ Holiday
 
 Bree,
 
-Some things you don’t get a vote on. That’s the whole message, and it’s how I felt about you before I had language for it. Two and a half minutes, almost nothing in the way, just surrender sung as a simple fact. Not a struggle. Not a strategy. Just… this is what happened. I fell. I’m still falling. First dances get this song for a reason. So do people who mean it.
-
-Yours,
-Holiday
+The melody is older than recorded sound itself — built on a French tune from 1784. He recorded it in one afternoon in Hollywood in 1961, for a scene where his character gives away a music box, and it became the song he closed almost every concert with for the rest of his life. Two and a half minutes, and no argument in it anywhere. I didn't choose this. I looked up and it had already happened.
 
 ---
 
@@ -236,10 +174,7 @@ Holiday
 
 Bree,
 
-This is the tired, honest one — asking to be pulled out of something instead of pretending you’re fine. I’ve had days like that. Maybe you have too. I put it here so you’d know I see that version of love as well: the exhausted ask, the quiet need. If you ever need search and rescue, I’m listening. You don’t have to be impressive to be held.
-
-Yours,
-Holiday
+I'm putting my tired on the list too. This is somebody famous and lonely, fully aware the two are connected, admitting he wants to be dependable instead of just present. There've been stretches where I needed rescuing and didn't know how to ask. Consider this the asking, in advance, for next time.
 
 ---
 
@@ -247,10 +182,7 @@ Holiday
 
 Bree,
 
-She draws a line between being wanted and being loved, and she’s clear she’s asking for the second. So am I. Wanting you is easy. Loving you — choosing you, staying soft with you — that’s the real ask. When the saxophone opens the song like a window, I feel that same opening in my chest. Grain in the voice. Truth in the ask. That’s us, if I’m lucky.
-
-Yours,
-Holiday
+She wrote this in her early twenties and it became the song that launched her career — but what gets me is the distinction she makes inside it. Being wanted and being loved are not the same thing, and she's completely clear she's asking for the second one. I've been wanted before. It's warm for a while and then it's nothing. What you give me is the other thing, the one with weight in it.
 
 ---
 
@@ -258,21 +190,15 @@ Holiday
 
 Bree,
 
-Knowing you’re the guilty one and asking anyway — that’s the softest kind of honesty. I’ve been wrong with you. I’ve been clumsy. This song doesn’t hide that. Lagos and New Orleans meeting in one room feels like grace somehow: two voices admitting fault and still reaching. If I’ve hurt you, I’m still reaching. That’s why it’s here.
-
-Yours,
-Holiday
+He's said he wrote this thinking about David and Bathsheba — a story about wanting something you know you shouldn't, from somebody's else's perspective turned into his own. This is the one where I admit I'm the guilty party. I've been that man with you, more than once. The asking-anyway is what love is, I think. Knowing you don't deserve the yes and hoping for it regardless.
 
 ---
 
-**24. You Send Me — Percy Sledge**
+**24. You Send Me — Percy Sledge — The Percy Sledge Way**
 
 Bree,
 
-He sings like a man in church — nothing cool, nothing held back. Everything on the surface. That’s how you send me. Not clever. Not guarded. Just gone. I love hearing a great singer mean every word of someone else’s song; it reminds me that feeling doesn’t have to be original to be true. You send me. Simple as that. Still true.
-
-Yours,
-Holiday
+Sam Cooke wrote and sang this first, easy and measured. Sledge took it ten years later and pushed it somewhere rawer — more torn open, less composed. I hear that and understand what I'm supposed to be doing. Stop managing it. Stop keeping some back.
 
 ---
 
@@ -280,32 +206,23 @@ Holiday
 
 Bree,
 
-Devotion as a kind of beautiful ruin — giving up everything and calling it worthwhile. Sledge doesn’t hide. An organ, a rhythm section, a man who meant it in Alabama in 1966 and somehow still means it now. When I love you like this, I know what I’m giving. I still choose it. That’s the warning and the vow in the same breath.
-
-Yours,
-Holiday
+His first time in a recording studio, ever — didn't know how to use a microphone, the horns are audibly out of tune, and it still became the first number-one hit ever recorded in Muscle Shoals. He's said he was thinking about a girlfriend who left for a modeling job he couldn't afford to follow. Listen closely and it's almost a warning — devotion described as a kind of ruin, giving up everything and calling it worthwhile. I've read the terms. I'm signing anyway.
 
 ---
 
-**26. Me You I — The Cavemen.**
+**26. Me You I — The Cavemen. — Roots**
 
 Bree,
 
-The arithmetic of a couple — me, you, I — never adds up neatly, and somehow that’s the joy. Bright guitars. A bassline that walks. Two brothers from Lagos deciding highlife wasn’t finished. This one’s for the playful us, the dancing-in-the-kitchen us, the version of love that laughs. We don’t have to be profound every hour. Sometimes we just get to be glad.
-
-Yours,
-Holiday
+Two brothers who couldn't afford a vocalist when they started, so they sang the songs themselves — their mother's Igbo folk and gospel records are the reason highlife runs through everything they make now. *Roots* went on to win Best Alternative Album at The Headies. That title — me, you, I — is the arithmetic of two people, which never adds up cleanly no matter how you arrange it. That's us. Not a neat sum. A good one.
 
 ---
 
-**27. Promise — Ben Howard**
+**27. Promise — Ben Howard — Every Kingdom**
 
 Bree,
 
-Over six minutes of held breath. He sings barely above a whisper, close enough to the strings that you hear the wood. Fragile agreements between people — that’s what this is. I don’t want cheap promises with you. I want the careful kind. The patient kind. Give this one the whole length. It earns it the way I want our word to earn it: slowly, honestly, without rushing to comfort that isn’t real yet.
-
-Yours,
-Holiday
+The closing track on his debut, and it takes nearly a minute before it decides to become anything — India Bourne's cello and Howard's voice slowly finding each other over gentle guitar. One review called it a song about the struggle of love and the bleakness of winter, which is about right. It never resolves into comfort at the end, and that's why I trust it. Not every promise gets a happy chord. Some of them just get kept, quietly, for years.
 
 ---
 
@@ -313,10 +230,7 @@ Holiday
 
 Bree,
 
-Luther singing loneliness instead of romance — and somehow that hits closer. Yearning and having are different subjects. I’ve known both. The lush arrangement wraps around something bare: the ache of wanting partnership while love songs play everywhere. If you’ve ever felt alone in a crowded feeling, this one sits with you. I put it here so you’d know I understand that ache too — and that you’re the answer I’ve been listening for.
-
-Yours,
-Holiday
+This gave him his fourth number-one R&B single and two Grammy nominations, but it's also one of the loneliest things he ever recorded — a man surrounded by love songs while it isn't his yet. I know that room. I lived in it a long time before you, longer than I've told you about. I'm putting it here so you understand the contrast from where I'm standing now.
 
 ---
 
@@ -324,56 +238,37 @@ Holiday
 
 Bree,
 
-The happiest record in this whole collection. No shadow. No complaint. Just too much love and delight about it. That bassline, those horns, a man who is simply glad. That’s how I feel on the good days with you — spoiled by affection and still asking for more. Impossible to sit still. Impossible to pretend I’m not smiling. Never too much. Not of you.
-
-Yours,
-Holiday
+His debut single, written and produced entirely by him at twenty-nine years old, and it announced him fully formed — two Grammy nominations, a double-platinum album, a spot decades later on Rolling Stone's list of the greatest songs ever made. Pure delight, no shadow in it anywhere. This is what you did to that lonely room. Dance to it. Don't overthink it.
 
 ---
 
-**30. I Know — Luther Vandross (feat. Stevie Wonder)**
+**30. I Know (feat. Stevie Wonder) — Luther Vandross**
 
 Bree,
 
-Certainty about someone — rarer than doubt, harder to sing without sounding smug. They make it tender instead. Two great voices in one room, neither showing off, Stevie’s harmonica doing what only it can. *I know.* That’s the whole soft flex. I know what I feel. I know who it’s for. Five and a half minutes of that assurance, for you.
-
-Yours,
-Holiday
+His first album after fifteen years on one label, a whole new chapter, and he brought in Stevie Wonder for the harmonica line everyone remembers. Two of the greatest voices alive in one room, neither one showing off. Certainty doesn't need to shout — doubt is easy to write about, everybody does it, but being sure about somebody is much harder to make interesting. I know. Not I hope, not I think. I know.
 
 ---
 
-**31. Why Not Smile — R.E.M.**
+**31. Why Not Smile — R.E.M. — Up**
 
 Bree,
 
-This is the gentlest song on the whole list and probably the most useful one.
-
-It’s addressed to somebody who has been carrying something heavy for longer than they’ve admitted. Not a crisis — just a sadness that has settled in and started to look like normal. The singer doesn’t try to fix it or explain it away. He notices it, says he’s worried, and offers the smallest possible thing: *why not smile.* Then he repeats that he’d do anything, which is the real message underneath the question.
-
-Peter Buck called it a song about pulling someone out of a dark place. Michael Stipe wasn’t so sure it was that simple. They’re both right, I think — wanting to help somebody and knowing how are two different skills, and the song is honest about only having the first one.
-
-I put it here because it’s the one I’d want you to hear on a bad day. If you’ve been sad for a while, I’ve noticed. I’d do anything.
-
-Yours,
-Holiday
+Their drummer had collapsed onstage from a brain aneurysm two years earlier, then walked away from the band entirely to become a farmer, right as they were meant to start this record. Michael Stipe has said he could barely sing through parts of making it, his chest so tight. This song is the gentlest thing that came out of that year — not fixing anyone, just noticing, and saying he'd do anything. If you've been sad for a while, I've noticed. I've been noticing. I'd do anything.
 
 ---
 
-**32. The Promise — Tracy Chapman**
+**32. The Promise — Tracy Chapman — New Beginning**
 
 Bree,
 
-Her second appearance on this list, and the bigger of the two.
+Her second time on this list, and the bigger of the two. Where the other one is wary about ceremony, this is about distance — a lover waiting across time and miles, holding onto the hope that a reunion actually comes. It's a song about the harder half of a promise: proving it, not just making it. That's why she's here twice. She writes love the way it actually behaves. Patient. Tested. Worth it.
 
-Where “Wedding Song” is wary about ceremony, this one is about distance — being apart from someone and holding to an agreement anyway. It’s a song about waiting. About saying you’ll be there and then having to actually prove it across time and miles, which is the harder half. Five and a half minutes, and she never rushes a single line of it.
-
-That’s why it’s here. Tracy Chapman writes about love the way it really behaves — patient, tested, occasionally lonely, worth it. No fireworks. Just somebody keeping their word.
-
-I’ll be there. That’s the whole letter.
-
-Yours,
-Holiday
+I'll be there. That's the whole letter.
 
 ---
 
-*Thirty-two songs. All of them, somehow, about you.*
+Thirty-two songs, and none of them says it properly. That's why there are thirty-two.
+
+Yours,
+Holiday
