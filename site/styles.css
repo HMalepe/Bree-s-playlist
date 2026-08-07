@@ -293,11 +293,15 @@ a:hover {
   min-height: auto;
   display: grid;
   align-content: start;
-  padding: 3.25rem var(--pad-r) 3.5rem var(--pad-x);
+  padding:
+    max(3.25rem, calc(2.5rem + env(safe-area-inset-top)))
+    var(--pad-r)
+    3.5rem
+    var(--pad-x);
   border-top: 1px solid var(--line);
   position: relative;
   overflow: visible;
-  scroll-margin-top: 0.5rem;
+  scroll-margin-top: env(safe-area-inset-top, 0px);
 }
 
 .letter::before {
@@ -317,14 +321,9 @@ a:hover {
   position: relative;
   max-width: 38rem;
   width: 100%;
-  opacity: 0;
-  transform: translateY(18px);
-  transition: opacity 0.7s ease, transform 0.7s ease;
-}
-
-.letter.is-in .letter-inner {
+  /* Always visible — screenshots must never catch blank letters */
   opacity: 1;
-  transform: translateY(0);
+  transform: none;
 }
 
 .letter-meta {
@@ -580,7 +579,7 @@ a:hover {
   bottom: 0;
   z-index: 50;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 0;
   padding:
     0.35rem
@@ -591,19 +590,125 @@ a:hover {
   border-top: 1px solid var(--line);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
+  transition: transform 0.28s ease, opacity 0.28s ease;
 }
 
-.mobile-dock a {
+.mobile-dock a,
+.dock-btn {
   display: flex;
   align-items: center;
   justify-content: center;
   min-height: 48px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
   font-family: var(--font-meta);
-  font-size: 0.68rem;
-  letter-spacing: 0.14em;
+  font-size: 0.62rem;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
   text-decoration: none;
   color: var(--sand);
+  cursor: pointer;
+}
+
+.dock-btn[aria-pressed="true"] {
+  color: var(--ink);
+}
+
+.capture-exit {
+  position: fixed;
+  top: max(0.75rem, env(safe-area-inset-top));
+  right: max(0.75rem, env(safe-area-inset-right));
+  z-index: 60;
+  min-height: 40px;
+  padding: 0.45rem 0.7rem;
+  border: 1px solid var(--line);
+  background: rgba(5, 5, 5, 0.88);
+  color: var(--muted);
+  font-family: var(--font-meta);
+  font-size: 0.62rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.capture-exit:hover,
+.capture-exit:focus-visible {
+  color: var(--sand);
+  border-color: var(--sand);
+}
+
+/* Hide chrome while typing or in clean-shot mode — better phone screenshots */
+body.is-composing .mobile-dock,
+body.is-capture .mobile-dock {
+  transform: translateY(110%);
+  opacity: 0;
+  pointer-events: none;
+}
+
+body.is-composing,
+body.is-capture {
+  --dock-h: 0px;
+  padding-bottom: var(--pad-b);
+}
+
+body.is-capture .grain {
+  opacity: 0.08;
+}
+
+body.is-capture .petal {
+  opacity: 0.1;
+  animation: none;
+}
+
+body.is-capture .letter-nav,
+body.is-capture .bree-thoughts-hint,
+body.is-capture .bree-thoughts-foot,
+body.is-capture .hero-actions {
+  display: none;
+}
+
+body.is-capture .bree-thoughts-input {
+  border-bottom-color: rgba(243, 235, 225, 0.16);
+}
+
+body.is-settled .hero-kicker,
+body.is-settled .hero-brand,
+body.is-settled .hero-line,
+body.is-settled .hero-actions {
+  opacity: 1;
+  transform: none;
+  animation: none;
+}
+
+@media print {
+  .grain,
+  .bloom,
+  .petal,
+  .mobile-dock,
+  .capture-exit,
+  .skip-link,
+  .letter-nav,
+  .letter-links,
+  .bree-thoughts-foot,
+  .hero-actions {
+    display: none !important;
+  }
+
+  body {
+    background: #050505;
+    color: #f3ebe1;
+    padding: 0;
+  }
+
+  .letter,
+  .hero,
+  .index,
+  .close {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
 }
 
 @keyframes rise {

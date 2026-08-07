@@ -1,4 +1,5 @@
 const pad = (n) => String(n).padStart(2, "0");
+const CAPTURE_KEY = "bree-capture-mode";
 
 const linkLabels = [
   ["direct", "Listen"],
@@ -49,7 +50,7 @@ function renderLetters(tracks, root) {
         : `<span class="letter-nav-link is-disabled">End of playlist</span>`;
 
       return `
-        <article class="letter" id="letter-${t.n}" data-num="${pad(t.n)}">
+        <article class="letter is-in" id="letter-${t.n}" data-num="${pad(t.n)}">
           <div class="letter-inner">
             <div class="letter-meta">
               <span>Letter ${pad(t.n)}</span>
@@ -151,10 +152,14 @@ function bindThoughts() {
     });
 
     input.addEventListener("focus", () => {
-      // Keep the reply box above the mobile keyboard / dock.
+      document.body.classList.add("is-composing");
       window.setTimeout(() => {
         input.scrollIntoView({ block: "center", behavior: "smooth" });
       }, 280);
+    });
+
+    input.addEventListener("blur", () => {
+      document.body.classList.remove("is-composing");
     });
   });
 }
@@ -171,34 +176,75 @@ function escapeAttr(value) {
   return escapeHtml(value).replaceAll("'", "&#39;");
 }
 
-function observeLetters() {
-  const letters = document.querySelectorAll(".letter");
-  if (!("IntersectionObserver" in window)) {
-    letters.forEach((el) => el.classList.add("is-in"));
-    return;
+function setCaptureMode(on) {
+  document.body.classList.toggle("is-capture", on);
+  const toggle = document.getElementById("capture-toggle");
+  const exit = document.getElementById("capture-exit");
+  if (toggle) {
+    toggle.setAttribute("aria-pressed", on ? "true" : "false");
+    toggle.textContent = on ? "Clean on" : "Clean shot";
   }
+  if (exit) exit.hidden = !on;
+  try {
+    localStorage.setItem(CAPTURE_KEY, on ? "1" : "0");
+  } catch {
+    /* ignore */
+  }
+  const url = new URL(location.href);
+  if (on) url.searchParams.set("capture", "1");
+  else url.searchParams.delete("capture");
+  history.replaceState(null, "", url);
+}
 
-  const io = new IntersectionObserver(
-    (entries) => {
-      for (const entry of entries) {
-        if (entry.isIntersecting) {
-          entry.target.classList.add("is-in");
-          io.unobserve(entry.target);
-        }
-      }
-    },
-    { threshold: 0.08, rootMargin: "0px 0px -8% 0px" }
-  );
+function initCaptureMode() {
+  const params = new URLSearchParams(location.search);
+  let on = params.get("capture") === "1";
+  if (!on) {
+    try {
+      on = localStorage.getItem(CAPTURE_KEY) === "1";
+    } catch {
+      on = false;
+    }
+  }
+  setCaptureMode(on);
 
-  letters.forEach((el) => io.observe(el));
+  document.getElementById("capture-toggle")?.addEventListener("click", () => {
+    setCaptureMode(!document.body.classList.contains("is-capture"));
+  });
+  document.getElementById("capture-exit")?.addEventListener("click", () => {
+    setCaptureMode(false);
+  });
+}
+
+function settleHeroForScreenshots() {
+  // After entrance animations finish, freeze final state so captures aren't mid-fade.
+  window.setTimeout(() => {
+    document.body.classList.add("is-settled");
+  }, 1600);
+}
+
+function markFontsReady() {
+  const ready = () => document.documentElement.classList.add("fonts-ready");
+  if (document.fonts?.ready) {
+    document.fonts.ready.then(ready).catch(ready);
+  } else {
+    ready();
+  }
+  // Safety: never leave the page waiting on fonts forever.
+  window.setTimeout(ready, 2500);
 }
 
 function scrollToHash() {
-  const id = decodeURIComponent(location.hash.replace(/^#/, ""));
-  if (!id) return;
+  const raw = location.hash.replace(/^#/, "");
+  if (!raw || raw === "capture") return;
+  const id = decodeURIComponent(raw);
   const el = document.getElementById(id);
   if (!el) return;
-  el.scrollIntoView({ behavior: "smooth", block: "start" });
+  // Instant jump is more reliable for screenshot framing than smooth scroll.
+  const behavior = document.body.classList.contains("is-capture")
+    ? "auto"
+    : "smooth";
+  el.scrollIntoView({ behavior, block: "start" });
 }
 
 function setLoadStatus(message, isError = false) {
@@ -215,6 +261,10 @@ function setLoadStatus(message, isError = false) {
 }
 
 async function main() {
+  markFontsReady();
+  settleHeroForScreenshots();
+  initCaptureMode();
+
   setLoadStatus("Loading the playlist…");
   const res = await fetch("./tracks.json", { cache: "no-cache" });
   if (!res.ok) throw new Error(`tracks.json ${res.status}`);
@@ -227,7 +277,6 @@ async function main() {
   renderLetters(tracks, document.getElementById("letter-stack"));
   setLoadStatus("");
   bindThoughts();
-  observeLetters();
   scrollToHash();
   window.addEventListener("hashchange", scrollToHash);
 }

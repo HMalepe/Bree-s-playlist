@@ -18,6 +18,13 @@
       name="description"
       content="Thirty-two songs. Soft letters from Holiday to Bree."
     />
+    <meta property="og:title" content="Bree — thirty-two letters" />
+    <meta
+      property="og:description"
+      content="Thirty-two songs. Soft letters from Holiday to Bree."
+    />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -86,8 +93,21 @@
 
     <nav class="mobile-dock" aria-label="Quick navigation">
       <a href="#index">Playlist</a>
+      <button type="button" id="capture-toggle" class="dock-btn" aria-pressed="false">
+        Clean shot
+      </button>
       <a href="#top">Top</a>
     </nav>
+
+    <button
+      type="button"
+      id="capture-exit"
+      class="capture-exit"
+      hidden
+      aria-label="Exit clean shot mode"
+    >
+      Exit clean shot
+    </button>
 
     <script type="module" src="./app.js"></script>
   </body>
