@@ -355,6 +355,18 @@ a:hover {
   font-size: 1.05rem;
 }
 
+.letter-art {
+  margin: 0 0 1.5rem;
+  border-radius: 12px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.letter-art iframe {
+  display: block;
+  border: 0;
+}
+
 .letter-body p {
   margin: 0 0 1.05rem;
   font-size: clamp(1.05rem, 3.8vw, 1.28rem);

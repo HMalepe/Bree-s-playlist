@@ -49,6 +49,20 @@ function renderLetters(tracks, root) {
         ? `<a class="letter-nav-link" href="#letter-${next.n}">${pad(next.n)} ${escapeHtml(next.title)} <span aria-hidden="true">→</span></a>`
         : `<span class="letter-nav-link is-disabled">End of playlist</span>`;
 
+      const art = t.spotifyId
+        ? `<div class="letter-art">
+            <iframe
+              title="${escapeAttr(t.title)} on Spotify"
+              src="https://open.spotify.com/embed/track/${encodeURIComponent(t.spotifyId)}?utm_source=generator&theme=0"
+              width="100%"
+              height="152"
+              frameborder="0"
+              loading="lazy"
+              allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+            ></iframe>
+          </div>`
+        : "";
+
       return `
         <article class="letter is-in" id="letter-${t.n}" data-num="${pad(t.n)}">
           <div class="letter-inner">
@@ -56,6 +70,7 @@ function renderLetters(tracks, root) {
               <span>Letter ${pad(t.n)}</span>
               <span>of 32</span>
             </div>
+            ${art}
             <h2 class="letter-title">${escapeHtml(t.title)}</h2>
             <p class="letter-artist">${escapeHtml(t.artist)}</p>
             <div class="letter-body">

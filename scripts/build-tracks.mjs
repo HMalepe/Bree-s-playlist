@@ -30,12 +30,16 @@ for (const p of parts) {
     .split(/\n\n+/)
     .map((s) => s.replace(/\n/g, " ").trim())
     .filter(Boolean);
+  const l = links[n] || {};
+  const spotifyId = l.spotify ? l.spotify.match(/track\/([A-Za-z0-9]+)/)?.[1] || null : null;
+
   tracks.push({
     n,
     title: hm[2].trim(),
     artist: hm[3].trim(),
     paragraphs,
-    ...links[n],
+    ...l,
+    spotifyId,
   });
 }
 
