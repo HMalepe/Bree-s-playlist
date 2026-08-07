@@ -15,7 +15,7 @@ it's on the list.
 
 ## How to read the link table
 
-`PLAYLIST.md` carries four link columns per song. The label on each link tells you what it opens
+`PLAYLIST.md` carries five link columns per song. The label on each link tells you what it opens
 and how much to trust it:
 
 | Label | Meaning |
