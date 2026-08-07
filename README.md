@@ -3,12 +3,15 @@
 Thirty-two songs, collected from screenshots one at a time, each with a short letter about why
 it's on the list.
 
+**Site:** [bree-s-playlist.vercel.app](https://bree-s-playlist.vercel.app) — black, letter-first reading experience in `site/`.
+
 ## What's here
 
 | File | What it is |
 |---|---|
 | [LETTERS.md](LETTERS.md) | **Start here.** One letter per song, in playlist order. This is the point of the repo. |
 | [PLAYLIST.md](PLAYLIST.md) | The track list, plus links to play each song and read its lyrics. |
+| [site/](site/) | The Vercel site (hero, playlist index, all 32 letters). |
 
 ## How to read the link table
 

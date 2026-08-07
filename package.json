@@ -1,0 +1,10 @@
+{
+  "name": "bree-s-playlist",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Bree's playlist — letters from Holiday",
+  "scripts": {
+    "dev": "npx --yes serve site -p 3000",
+    "build": "node scripts/build-tracks.mjs"
+  }
+}
