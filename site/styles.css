@@ -4,7 +4,7 @@
   --ink: #f3ebe1;
   --muted: #8f8578;
   --sand: #cbb39a;
-  --line: rgba(243, 235, 225, 0.1);
+  --line: rgba(243, 235, 225, 0.22);
   --glow: rgba(203, 179, 154, 0.09);
   --font-brand: "Italiana", Georgia, serif;
   --font-letter: "Newsreader", "Times New Roman", serif;
@@ -255,9 +255,17 @@ a:hover {
   gap: 0.35rem 0.9rem;
   align-items: baseline;
   min-height: 52px;
-  padding: 0.95rem 0;
+  padding: 0.95rem 0.85rem;
+  margin: 0 -0.85rem;
+  border-left: 2px solid transparent;
   text-decoration: none;
-  transition: color 0.2s ease;
+  transition: color 0.2s ease, background 0.2s ease, border-color 0.2s ease;
+}
+
+.track-list a:hover,
+.track-list a:focus-visible {
+  background: rgba(243, 235, 225, 0.05);
+  border-left-color: var(--sand);
 }
 
 .track-list a:hover .track-title,
@@ -394,19 +402,22 @@ a:hover {
   display: inline-flex;
   align-items: center;
   min-height: 44px;
-  padding: 0.35rem 0.15rem;
+  padding: 0.35rem 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
   font-family: var(--font-meta);
   font-size: 0.68rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   text-decoration: none;
-  border-bottom: 1px solid transparent;
-  margin-right: 1rem;
+  transition: border-color 0.2s ease, color 0.2s ease, background 0.2s ease;
 }
 
 .letter-links a:hover,
 .letter-links a:focus-visible {
-  border-bottom-color: var(--sand);
+  border-color: var(--sand);
+  background: rgba(243, 235, 225, 0.05);
+  color: var(--sand);
 }
 
 .bree-thoughts {
@@ -532,17 +543,24 @@ a:hover {
   display: flex;
   align-items: center;
   min-height: 44px;
+  padding: 0 0.85rem;
+  margin: 0 -0.85rem;
+  border: 1px solid transparent;
+  border-radius: 10px;
   font-family: var(--font-meta);
   font-size: 0.68rem;
   letter-spacing: 0.06em;
   text-decoration: none;
   color: var(--muted);
   line-height: 1.35;
+  transition: color 0.2s ease, border-color 0.2s ease, background 0.2s ease;
 }
 
 .letter-nav-link:not(.is-disabled):hover,
 .letter-nav-link:not(.is-disabled):focus-visible {
   color: var(--sand);
+  border-color: var(--line);
+  background: rgba(243, 235, 225, 0.05);
 }
 
 .letter-nav-link.is-disabled {
@@ -621,6 +639,7 @@ a:hover {
   margin: 0;
   padding: 0;
   border: 0;
+  border-left: 1px solid var(--line);
   background: none;
   font-family: var(--font-meta);
   font-size: 0.62rem;
@@ -629,6 +648,10 @@ a:hover {
   text-decoration: none;
   color: var(--sand);
   cursor: pointer;
+}
+
+.mobile-dock > *:first-child {
+  border-left: 0;
 }
 
 .dock-btn[aria-pressed="true"] {
