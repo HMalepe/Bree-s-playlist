@@ -497,13 +497,14 @@ a:hover {
   margin-top: 0.85rem;
 }
 
-.bree-thoughts-save {
+.bree-thoughts-save,
+.bree-thoughts-export {
   appearance: none;
   margin: 0;
   min-height: 44px;
-  padding: 0.55rem 0;
-  border: 0;
-  border-bottom: 1px solid var(--line);
+  padding: 0.55rem 1rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
   background: none;
   color: var(--ink);
   font-family: var(--font-meta);
@@ -511,13 +512,21 @@ a:hover {
   letter-spacing: 0.12em;
   text-transform: uppercase;
   cursor: pointer;
-  transition: border-color 0.25s ease, color 0.25s ease;
+  transition: border-color 0.25s ease, color 0.25s ease, background 0.25s ease;
+}
+
+.bree-thoughts-save {
+  border-color: var(--sand);
+  color: var(--sand);
 }
 
 .bree-thoughts-save:hover,
-.bree-thoughts-save:focus-visible {
+.bree-thoughts-save:focus-visible,
+.bree-thoughts-export:hover,
+.bree-thoughts-export:focus-visible {
   color: var(--sand);
-  border-bottom-color: var(--sand);
+  border-color: var(--sand);
+  background: rgba(203, 179, 154, 0.1);
 }
 
 .bree-thoughts-status {
